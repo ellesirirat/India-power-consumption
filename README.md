@@ -33,7 +33,7 @@ This Tableau dashboard presents an interactive view of India’s power consumpti
 
 ## 📸 Dashboard Preview
 
-![India Power Consumption Dashboard](india-power-dashboard.png)
+![Screenshot-India power consumption 2019-2020](https://github.com/ellesirirat/India-power-consumption/blob/main/Screenshot-India%20power%20consumption%202019-2020.png)
 
 ---
 
